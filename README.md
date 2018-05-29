@@ -3,11 +3,11 @@ Author: Lijun Zhao, Huihui Bai, Anhong Wang, Yao Zhao
 
 ## Image Re-Sampling Compression Method
 Our IRSC method can be not only used for deep neural networks based compression framework (DN2C), but it also can be applied to standard-compliant image compression framework (SCIC).
-- Framework1
+- DN2C Framework
 <p align='center'>  
-  <img src='fig/DN2C.jpg' width='1000'/>
+  <img src='fig/DN2C.jpg' width='300'/>
 
-- Networks
+- SCIC Framework
 <p align='center'>  
   <img src='fig/SCIC.jpg' width='1000'/>
 
