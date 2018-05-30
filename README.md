@@ -34,7 +34,7 @@ Our IRSC method can be not only used for deep neural networks based compression 
 
 
 ## Demo using pre-trained model
-   %%% Pre-trained MDCNN model can be downloaded at (put it in the folder 'tmp'):
+   %%% Pre-trained model can be downloaded at (put it in the folder 'tmp'):
    
    %%% Please change "data_path" and "log_directory" in "main_test.py" to be your path
    
