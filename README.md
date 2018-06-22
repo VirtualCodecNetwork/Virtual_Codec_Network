@@ -1,4 +1,4 @@
-# Learning a Virtual Codec Based on Deep Convolutional Neural Network to Compress Image
+# Virtual Codec Supervised Re-Sampling Network for Image Compression
 Author: Lijun Zhao, Huihui Bai, Anhong Wang, Yao Zhao
 
 ## Image Re-Sampling Compression Method
@@ -14,7 +14,7 @@ Our IRSC method can be not only used for deep neural networks based compression 
 
 
 ## NOTICE
-***IF you use our code, please cite our paper "Learning a Virtual Codec Based on Deep Convolutional Neural Network to Compress Image"
+***IF you use our code, please cite our paper "Virtual Codec Supervised Re-Sampling Network for Image Compression" and "Learning a Virtual Codec Based on Deep Convolutional Neural Network to Compress Image"
 
 ## Prerequisites:
 1. Linux
